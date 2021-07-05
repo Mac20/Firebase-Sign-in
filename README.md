@@ -1,2 +1,2 @@
-# demo-app
-An app to compare yourself to other people in your demographic
+# Firebase-Sign-in
+Sign in page using firebase for authentication.
